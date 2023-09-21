@@ -8,3 +8,4 @@ const keys = Object.keys(myJson).map(v => {
 })
 const fil = keys.filter((item)=>item!=undefined);
 console.log(fil)
+console.log("hill")
